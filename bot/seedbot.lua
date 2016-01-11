@@ -222,7 +222,7 @@ function create_config( )
     "leave_ban"
     },
     sudo_users = {153701434},--Sudo users
-    realm = {data = 'data/moderation.json'},--Realms Id
+    realm = {98557127},--Realms Id
     moderation = {data = 'data/moderation.json'},
     about_text = [[Teleseed v1
 An advance Administration bot based on yagop/telegram-bot 
